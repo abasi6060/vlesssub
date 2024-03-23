@@ -1,0 +1,1 @@
+vless://1031baad-7534-4b03-add0-a9c6535e587e@www.gov.se:443?encryption=none&security=tls&sni=mr-ali-karami-1403-welcome.mahihi361.workers.dev&fp=randomized&type=ws&host=mr-ali-karami-1403-welcome.mahihi361.workers.dev&path=%2F%3Fed%3D2048#Misaka-workers-TLS
